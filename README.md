@@ -5,7 +5,7 @@
 ### REQUISITOS:
 - Python3 instalado
 
-### PASSO A PASSO PARA JOGAR.
+### PASSO A PASSO PARA EXECUTAR.
 - Para usuarios Windows.
   - Execute o arquivo gerador_cpf.bat
  
